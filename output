@@ -1,0 +1,70 @@
+OUTPUTS
+
+SOL 1
+
+C:\Users\attri\PycharmProjects\pythonProject9\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject9/main.py
+Enter the first number:2.3
+Enter the second number:2
+Enter the third number:4.4
+The average of the three numbers is: 2.9
+
+Process finished with exit code 0
+
+
+sol 2
+
+C:\Users\attri\PycharmProjects\pythonProject10\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject10/main.py
+Enter the taxpayer's Gross Income: 1000000
+Enter number of dependents: 3
+196200.0
+
+Process finished with exit code 0
+
+
+sol 3
+
+C:\Users\attri\PycharmProjects\pythonProject13\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject13/main.py
+Enter the number of seconds to be converted: 67
+Minutes : 1
+Seconds : 7
+
+Process finished with exit code 0
+
+
+sol 4
+
+C:\Users\attri\PycharmProjects\pythonProject11\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject11/main.py
+75
+
+Process finished with exit code 0
+
+
+sol 5
+
+C:\Users\attri\PycharmProjects\pythonProject12\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject12/main.py
+0 --- 0.0 1.0
+15 --- 0.2588 0.9659
+30 --- 0.5 0.866
+45 --- 0.7071 0.7071
+60 --- 0.866 0.5
+75 --- 0.9659 0.2588
+90 --- 1.0 0.0
+105 --- 0.9659 -0.2588
+120 --- 0.866 -0.5
+135 --- 0.7071 -0.7071
+150 --- 0.5 -0.866
+165 --- 0.2588 -0.9659
+180 --- 0.0 -1.0
+195 --- -0.2588 -0.9659
+210 --- -0.5 -0.866
+225 --- -0.7071 -0.7071
+240 --- -0.866 -0.5
+255 --- -0.9659 -0.2588
+270 --- -1.0 -0.0
+285 --- -0.9659 0.2588
+300 --- -0.866 0.5
+315 --- -0.7071 0.7071
+330 --- -0.5 0.866
+345 --- -0.2588 0.9659
+
+Process finished with exit code 0
